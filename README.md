@@ -1,1 +1,1 @@
-# project-local-library
+This is my project.
